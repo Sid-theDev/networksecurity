@@ -6,4 +6,8 @@ certifi
 pyaml
 pickle
 dill
+mlflow
+dagshub
+fastapi
+uvicorn
 ##-e .
