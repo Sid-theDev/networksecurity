@@ -13,6 +13,7 @@ TEST_FILE_NAME: str = "test.csv"
 SCHEMA_FILE_PATH = os.path.join("data_schema", "schema.yaml")
 SAVED_MODEL_DIR = os.path.join("saved_models")
 MODEL_FILE_NAME = "model.pkl"
+TRAINING_BUCKET_NAME = "networksecuritybucketmlproj"
 
 """
 Data ingestion related constant start with DATA_INGESTION VAR NAME
